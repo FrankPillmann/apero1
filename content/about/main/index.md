@@ -7,7 +7,7 @@ number_categories: 0 # set to zero to exclude
 show_intro: true
 
 intro: |
-  Thank you for taking the time to visit my website. Ich bin ein griechischer Philosoph, um 280 v. Chr. Ich bildete die kynische Polemik zur Satire aus, in der ich Lehren und Leben der Philosophen, aber auch Brauchtum und Sitte verspottete. Development](Ich bin ein griechischer Philosoph) in Ich bin ein griechischer PhilosoIch bin ein griechischer Philosoph
+  Danke, dass Sie meine Webseite besuchen. Ich bin ein griechischer Philosoph, um 280 v. Chr. Ich bildete die kynische Polemik zur Satire aus, in der ich Lehren und Leben der Philosophen, aber auch Brauchtum und Sitte verspottete. Development](Ich bin ein griechischer Philosoph) in Ich bin ein griechischer PhilosoIch bin ein griechischer Philosoph
   
   Menippos
   
